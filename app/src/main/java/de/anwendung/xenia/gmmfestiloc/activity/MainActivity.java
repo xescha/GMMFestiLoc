@@ -8,9 +8,8 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-
-import de.anwendung.xenia.mapboxexample.R;
-import de.anwendung.xenia.mapboxexample.googlemaps.GoogleMapsActivity;
+import de.anwendung.xenia.gmmfestiloc.R;
+import de.anwendung.xenia.gmmfestiloc.googlemaps.GoogleMapsActivity;
 
 public class MainActivity extends ActionBarActivity implements View.OnClickListener {
 

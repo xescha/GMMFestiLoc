@@ -44,7 +44,11 @@
     <string name="action_gelaendeplan">Geländeplan</string>
     <string name="action_wetter">Wetter</string>
 
-
+    <item name="btnActTwo" type="id" />
+    <item name="btnActThree" type="id" />
+    <item name="btnActSpiel" type="id" />
+    <item name="btnActMap" type="id" />
+    <item name="btnActLocation" type="id" />
 
     <string name="test">Filter</string>
 

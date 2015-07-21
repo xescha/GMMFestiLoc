@@ -5,8 +5,7 @@ import android.support.v4.view.ActionProvider;
 import android.view.MenuInflater;
 import android.view.SubMenu;
 import android.view.View;
-
-import de.anwendung.xenia.mapboxexample.R;
+import de.anwendung.xenia.gmmfestiloc.R;
 
 public class MainActivityActionProvider extends ActionProvider
 {

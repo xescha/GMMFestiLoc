@@ -2,8 +2,7 @@ package de.anwendung.xenia.gmmfestiloc.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
-
-import de.anwendung.xenia.mapboxexample.R;
+import de.anwendung.xenia.gmmfestiloc.R;
 
 /**
  * Created by Xenia on 08.06.15.

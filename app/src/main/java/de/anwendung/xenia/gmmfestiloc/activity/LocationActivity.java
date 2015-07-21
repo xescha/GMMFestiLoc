@@ -8,10 +8,8 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.widget.TextView;
-
 import java.util.Date;
-
-import de.anwendung.xenia.mapboxexample.R;
+import de.anwendung.xenia.gmmfestiloc.R;
 
 /**
  * Created by Xenia on 04.06.15.
